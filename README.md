@@ -1,3 +1,15 @@
 # CheckPoint-1-Data-Gathering-Business-Understanding
 
-## Judul : Analisis lalala
+## Judul : ...
+
+## Import Library
+
+## Memuat Dataset
+
+## Business Understanding
+
+## Business Objective
+
+## Assess Situation
+
+## Analytic Goals Project Plan
