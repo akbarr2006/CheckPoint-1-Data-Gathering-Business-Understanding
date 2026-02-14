@@ -8,8 +8,7 @@
 
 
 ## Memuat Dataset
-<details>
-  <summary> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
+<details> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 ## Business Understanding
 
