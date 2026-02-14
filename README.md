@@ -4,5 +4,5 @@
 
 ## Import Library
 
-<details> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
-  <summary>Memuat Dataset</summary>
+<details> Memuat Dataset
+  <summary>https://www.kaggle.com/datasets/muhammetvarl/laptop-price</summary>
