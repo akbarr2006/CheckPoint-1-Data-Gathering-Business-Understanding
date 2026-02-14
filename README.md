@@ -3,12 +3,9 @@
 ## Judul : Analisis Faktor-Faktor yang Mempengaruhi Harga Laptop di Pasar
 
 ## Import Library
-<details>
-  <summary> 
 
-
-## Memuat Dataset
-<details> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
+## Memuat Dataset 
+https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 ## Business Understanding
 
