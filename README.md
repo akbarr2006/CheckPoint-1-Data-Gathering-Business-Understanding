@@ -1,8 +1,10 @@
 # CheckPoint-1-Data-Gathering-Business-Understanding
 
-## Judul : ...
+## Judul : Analisis Faktor-Faktor yang Mempengaruhi Harga Laptop di Pasar
 
 ## Import Library
+
+
 
 ## Memuat Dataset
 
@@ -12,4 +14,6 @@
 
 ## Assess Situation
 
-## Analytic Goals Project Plan
+## Analytic Goals
+
+## Project Plan
