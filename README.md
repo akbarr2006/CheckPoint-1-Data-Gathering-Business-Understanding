@@ -5,7 +5,7 @@
 ## Import Library
 
 ## Memuat Dataset 
-https://www.kaggle.com/datasets/muhammetvarl/laptop-price
+<details> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 ## Business Understanding
 
