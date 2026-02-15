@@ -11,13 +11,15 @@ https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 ## Business Understanding
 
 1. Business Objective
-Tujuan Bisnisnya adalah memahami variabel apa saja yang paling signifikan dalam menentukan harga sebuah laptop.
-Masalah utamanya :
+### Tujuan Bisnisnya : ###
+adalah memahami variabel apa saja yang paling signifikan dalam menentukan harga sebuah laptop.
+
+### Masalah utamanya : ###
 Perbedaan harga laptop sangat bervariasi meskipun spesifikasinya terlihat mirip.
 Konsumen sulit menentukan laptop terbaik sesuai budget.
 Penjual belum tentu mengetahui faktor spesifikasi mana yang paling mempengaruhi harga.
 
-2. Assess Situation
+3. Assess Situation
 Kondisi Dataset :
 Data memiliki campuran tipe data kuantitatif (harga, berat, RAM) dan kualitatif (merk, sistem operasi, tipe layar)
 Dataset memiliki 1303 baris.
@@ -28,14 +30,14 @@ Banyak fitur kategorikal (Brand, GPU, CPU) perlu encoding.
 Potensi adanya outlier pada laptop kategori high-end atau gaming yang harganya jauh di atas rata-rata.
 Resiko : Data tidak lengkap atau tidak konsisten.
 
-3. Analytic Goals
+4. Analytic Goals
 Menganalisis distribusi harga laptop.
 Membandingkan rata-rata harga berdasarkan brand.
 Menganalisis hubungan antara (RAM dan Harga, Storage dan Harga, Berat dan Harga).
 Mengidentifikasi spesifikasi yang paling berpengaruh terhadap harga.
 Membuat model prediksi harga laptop.
 
-4. Project Plan
+5. Project Plan
 Mengeksplorasi struktur data (baris dan kolom) serta tipe data setiap variabel.
 Melakukan pembersihan data (cleaning) dari nilai yang hilang.
 Membuat visualisasi awal seperti Scatter Plot untuk melihat hubungan spesifikasi dengan harga.
